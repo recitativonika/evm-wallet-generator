@@ -1,4 +1,4 @@
-# mass-generates EVM compatible wallet
+# Mass-generates EVM compatible wallet
 
 mass-generates EVM compatible mnemonic phrases and their corresponding public keys, while automatically saving the private keys to a text file.
 
