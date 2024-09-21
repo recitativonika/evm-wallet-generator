@@ -11,7 +11,7 @@ pip install -r requirements.txt
 python generate.py
 ```
 
-# Example Usage
+## Example Usage
 
 When you run the script, it will prompt you to enter the number of mnemonic phrases to generate:
 ```bash
@@ -31,8 +31,8 @@ The script will generate the specified number of mnemonic phrases, along with th
 ```
 # Important Notes:
 
-File Handling: The script saves the mnemonic phrases, private keys, and public keys to evm_keys.txt. You can change the filename in the script if desired.
-Security: Ensure proper handling of private keys and mnemonic phrases. Never expose or share them in public or unsecured environments.
-Key Management: Consider implementing secure storage mechanisms and key management solutions for real applications.
+## File Handling: The script saves the mnemonic phrases, private keys, and public keys to evm_keys.txt. You can change the filename in the script if desired.
+## Security: Ensure proper handling of private keys and mnemonic phrases. Never expose or share them in public or unsecured environments.
+## Key Management: Consider implementing secure storage mechanisms and key management solutions for real applications.
 
 This script efficiently generates Ethereum mnemonic phrases, private keys, and public keys while automatically saving the private keys to a text file. Enjoy generating your keys!
